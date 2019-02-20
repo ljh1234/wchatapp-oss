@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <image class="" src="{{imgsrc}}"/>
+    <button class="default" size="default" type="default" bindtap="selectFile">选择文件</button>
+    <button class="default" size="default" type="default" bindtap="upFile">
+        上传文件
+    </button>
+  </view>
+  
+</view>

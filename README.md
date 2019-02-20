@@ -18,4 +18,4 @@
 1. 视频图片皆可上传
 
 2. 参考链接
-<a href="https://help.aliyun.com/document_detail/92883.html?spm=a2c4g.11186623.6.1151.7d8d2812KthXh0"></a>
+[https://help.aliyun.com/document_detail/92883.html?spm=a2c4g.11186623.6.1151.7d8d2812KthXh0]
